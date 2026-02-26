@@ -15,3 +15,7 @@ caso contrário seu programa apresentará a mensagem: "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1004
 
 # Escreva sua solução abaixo
+a = int(input("Type the firs number"))
+b = int(input("Type the second number"))
+PROD = a * b
+print(f"PROD = {PROD}")
