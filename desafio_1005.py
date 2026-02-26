@@ -18,3 +18,8 @@ de imprimir o fim de linha após o resultado, caso contrário, você receberá
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1005
 
 # Escreva sua solução abaixo
+note1 = float(input("Type the first note"))
+note2 = float(input("Type the second note"))
+
+MEDIA = ((note1*0.35) + (note2*0.75))/1.1
+print(f"MEDIA = {MEDIA:.1f}")
