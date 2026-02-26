@@ -12,7 +12,7 @@ você receberá "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
-a = int(input("Type the firs number"))
-b = int(input("Type the second number"))
-x = a + b
-print(f"The sum: {x}")
+A = int(input("Type the firs number"))
+B = int(input("Type the second number"))
+x = A + B
+print(x)
